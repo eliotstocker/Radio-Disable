@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Radio Disable</string>
+    <string name="summary">Disable your Mobile Network when on selected WiFi Networks, if using WiFi Calling this can save a large amount of battery, especially when in low to no signal areas.</string>
+    <string name="error_toast">Unable to Control Device Radio</string>
+</resources>
