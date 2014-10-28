@@ -5,7 +5,7 @@ Radio Disable
 Description
 -----------
 No Root Required,
-When in a low to no signal area, android will use a large amount of battery to try to maintain a Mobile network connection, if like me you use wifi calling in those areas, or you simply want to keep your battery from draining when you can't get wifi connection anyway. This is the app for you.
+When in a low to no signal area, android will use a large amount of battery to try to maintain a Mobile network connection, if like me you use wifi calling in those areas, or you simply want to keep your battery from draining when you can't get network connection anyway. This is the app for you.
 
 Simply open the configuration screen, select the WiFi networks on which you wish to disable the mobile network, and enable the service.
 
