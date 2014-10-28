@@ -1,4 +1,4 @@
-Radio-Disable
+Radio Disable
 =============
 ![Promo Image](promo.png)
 
