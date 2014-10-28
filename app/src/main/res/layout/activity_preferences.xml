@@ -31,6 +31,21 @@
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Settings"
+                android:id="@+id/textView3"
+                android:textStyle="bold"
+                android:textColor="@color/appAccent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
             android:layout_height="50dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
@@ -47,7 +62,8 @@
             <android.support.v7.widget.SwitchCompat
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/enable_service" />
+                android:id="@+id/enable_service"
+                android:layout_marginRight="16dp" />
         </LinearLayout>
 
         <LinearLayout
